@@ -10,6 +10,7 @@ Undergrad Information:
   -> Executive Member, ML Wing | Google Developers Student Club, IIITL -> Ended Sept 2024
   -> Design Lead | Equinox (Techno-Cultural Fest, IIIT Lucknow) -> Ended Apr 2024
   -> Secretary-General | Equinox World MUN -> Ended Apr 2024
+
 - Courses
   -> Computational Thinking through Programming
   -> DBMS
